@@ -1,6 +1,7 @@
 # Outliner
 
 Copy a text and transform to bulleted list. Useful to add content to Logseq.
+Note: after generated bullet list, make hierarquies tab hierarchy in vs code (logseq is slow).
 
 ## Usage
 
